@@ -2,9 +2,9 @@
 A JavaScript library for building user interfaces
 ## Personal Experience records on React JS using Mark down
 
-# CONTENTS :
+# 1. CONTENTS :
 
-## [1. HELLO REACT](https://github.com/Amarjit-pheiroijam/React-Journal/tree/master/Views/1.HelloReact)
+### [1. HELLO REACT](https://github.com/Amarjit-pheiroijam/React-Journal/tree/master/Views/1.HelloReact)
 1.1 Exploring JSX <br>
 1.2 JSX Expressions <br>
 1.3 Conditional Rendering in JSX <br>
