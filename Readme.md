@@ -1,4 +1,9 @@
 # REACT
+<img src="https://github.com/Amarjit-pheiroijam/React-Journal/blob/master/react.png" align="center>
+<p align="center" style="font-size:50px;">
+My Personal Experience records on React JS using Mark down
+</p>
+<hr>
 
 # CONTENTS :
 
