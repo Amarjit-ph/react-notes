@@ -1,5 +1,7 @@
-# [REACT JS](https://reactjs.org/)
-## Personal Experience records on React JS using Mark down 
+# [REACT](https://reactjs.org/)
+A JavaScript library for building user interfaces
+## Personal Experience records on React JS using Mark down
+
 # CONTENTS :
 
 ## [1. HELLO REACT](https://github.com/Amarjit-pheiroijam/React-Journal/tree/master/Views/1.HelloReact)
