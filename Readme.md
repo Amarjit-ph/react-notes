@@ -1,7 +1,5 @@
 # REACT
-
-<img src="https://github.com/Amarjit-pheiroijam/React-Journal/blob/master/react.png">
-
+## Personal Experience records on React JS using Mark down 
 # CONTENTS :
 
 ## [1. HELLO REACT](https://github.com/Amarjit-pheiroijam/React-Journal/tree/master/Views/1.HelloReact)
