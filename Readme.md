@@ -1,5 +1,5 @@
 # [REACT](https://reactjs.org/)
-A JavaScript library for building user interfaces
+A JavaScript library for building user interfaces<br>
 Personal Experience records on React JS using Mark down
 
 ## 1. CONTENTS :
