@@ -1,6 +1,6 @@
 # REACT
 
-# CONTENTS
+# CONTENTS :
 
 ## [1. HELLO REACT](https://github.com/Amarjit-pheiroijam/React-Journal/tree/master/Views/1.HelloReact)
 1.1 Exploring JSX <br>
