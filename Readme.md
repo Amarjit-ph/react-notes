@@ -1,6 +1,6 @@
 # [REACT](https://reactjs.org/)
-A JavaScript library for building user interfaces<br>
-Personal Experience records on React JS using Mark down
+This is my Personal Experience records on React JS using Mark down
+for my Future reference
 
 ## 1. CONTENTS :
 
