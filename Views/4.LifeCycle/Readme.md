@@ -1,8 +1,7 @@
+# Life Cycle Methods
 
 # 1. Life Cycle Method 
-
-### LIFE CYCLE METHODS:
-
+## LIFE CYCLE METHODS:
 * Fire at Start
 ``` javascript
   componentDidMount() {

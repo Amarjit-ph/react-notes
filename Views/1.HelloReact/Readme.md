@@ -1,5 +1,4 @@
-# 1.HELLO REACT
-## REACT DOCUMENTATION
+# HELLO REACT
 
 React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded.
 
@@ -145,7 +144,7 @@ const onFormSubmit = e => {
 };
 ```
 
-# 7. Arrays in Jsx
+# 7. Arrays in JSX
 
 ```javascript
 Const = [10,20,30,40,50];
@@ -156,5 +155,4 @@ Const = [10,20,30,40,50];
 }
 ```
 
-
-# EXAMPLE [ FILE.1]
+# EXAMPLE [FILE.1]

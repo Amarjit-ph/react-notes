@@ -1,6 +1,6 @@
-# 1. React Components
+# React Components
 
-React Components:
+# 1.React Components:
 * Reusable 
 * Individual piece of User Interface
 * Custom Html Element [React Component]
@@ -68,6 +68,7 @@ ReactDOM.render(jsx, document.getElementById("root"));
 ```
 
 # 2.Nesting Components
+
 # Nesting Example : [Files.2]
 ``` javascript 
 class Options extends React.Component {
@@ -115,6 +116,7 @@ class Car extends React.Component {
 
 
 # 4. Event Methods
+
 # Event Methods Example : [Files.4]
 
 # 5. Stateless functional components

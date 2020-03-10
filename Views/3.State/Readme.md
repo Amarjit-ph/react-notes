@@ -1,5 +1,6 @@
+# COMPONENT STATE
 
-# 1. COMPONENT STATE
+# 1. STATE
 STATE RE-RENDER UI WHEN DATA IS CHANGE
 * This.setState
 * This.state = { Count: 0 }

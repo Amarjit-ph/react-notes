@@ -16,7 +16,8 @@ firebase.initializeApp(firebaseConfig);
 const database = firebase.database();
 ```
 
-## 1.CREATE DATA EXAMPLE
+# 2.ACTION ON DATA 
+## 1.Create Data
 ``` javascript
 database.ref().set({
     name: 'Amarjit Pheiroijam',
@@ -168,7 +169,7 @@ database.ref().on('value', (snapshot) => {
 });
 ```
 
-## 8. ARRAY IN FIREBASE
+# 3. ARRAY IN FIREBASE
 
 * ADD TO ARRAY TYPE USING PUSH
 * UNIQUE ID S CREATED AS INDEX
@@ -213,7 +214,7 @@ database.ref('expense').once('value')
         console.log('\n\n\n\n', expenses);
     });
 ```
-## SUBSCRIPTION FUNCTIONS
+# 4. SUBSCRIPTION FUNCTIONS
 
 ### 1.CHILD REMOVE
 ```

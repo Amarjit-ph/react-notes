@@ -1,4 +1,5 @@
-# 1.Redux - Firebase
+Redux - Firebase
+
 * Redux-thunk
 ### 1. Add thunk Middleware
 ``` javascript
