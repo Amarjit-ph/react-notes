@@ -1,6 +1,21 @@
-# [REACT.JS](https://reactjs.org/)
+<p align="center">
+  <img src="https://github.com/Amarjit-pheiroijam/React-Journal/blob/master/react.png">
+</p>
+<p align="center">
+<p align="center" style="font-size:20px;">
 This is my Personal Experience records on React JS using Mark down
-for my Future reference
+for my Future reference <br><br>
+<img src="https://badgen.net/badge/Tutorial/Markdowns/pink?icon=github">
+<img src="https://img.shields.io/badge/Stars-0-red">
+<img src="https://img.shields.io/github/issues-raw/kuttim/regg.svg">
+<img src="https://badgen.net/badge/Forks/0/pink?icon=github">
+  
+</p>
+<hr>
+ 
+
+# [REACT.JS](https://reactjs.org/)
+
 
 ## 1. CONTENTS :
 
