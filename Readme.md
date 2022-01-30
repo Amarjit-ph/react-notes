@@ -3,8 +3,7 @@
 </p>
 <p align="center">
 <p align="center" style="font-size:20px;">
-This is my Personal Experience records on React JS using Mark down
-for my Future reference <br><br>
+  <b>My Personal Notes on Learning React JS using Mark down for my Future reference</b> <br><br>
 <img src="https://badgen.net/badge/Tutorial/Markdowns/pink?icon=github">
 <img src="https://img.shields.io/badge/Stars-0-red">
 <img src="https://img.shields.io/github/issues-raw/kuttim/regg.svg">
