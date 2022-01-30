@@ -14,10 +14,11 @@ for my Future reference <br><br>
 <hr>
  
 
-# [REACT.JS](https://reactjs.org/)
+# [REACT](https://reactjs.org/)
+A JavaScript library for building user interfaces
 
 
-## 1. CONTENTS :
+## CONTENTS
 
 ### [1. HELLO REACT](https://github.com/Amarjit-pheiroijam/React-Journal/tree/master/Views/1.HelloReact)
 1.1 Exploring JSX <br>
