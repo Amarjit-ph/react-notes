@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Amarjit-pheiroijam/React-Journal/blob/master/completion.png">
+  <img src="https://github.com/Amarjit-ph/react-notes/blob/master/react-note.png">
 </p>
 <p align="center">
 <p align="center" style="font-size:20px;">
